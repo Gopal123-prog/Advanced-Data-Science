@@ -9,4 +9,4 @@
 
 🎯 The ultimate goal is to increase retention rates and create a more inclusive and innovative educational environment for the students. 📈🌟🎓
 
-The deployment of the model can be seen here - LINK
+The deployment of the model can be seen here - [LINK](https://predictdropout.herokuapp.com/).
